@@ -11,7 +11,7 @@ Write a method named mergeAndSortLists that takes two ArrayLists of integers
         This new list should contain all elements from both input lists,
         with duplicates removed and the entire list sorted in ascending order.
  */
-public class FromNadir {
+public class MerchAndSort {
     public static void main(String[] args) {
         ArrayList <Integer> list1 = new ArrayList<>(Arrays.asList(1,2,3,5,5,6,7,8,1,2));
         ArrayList <Integer> list2 = new ArrayList<>(Arrays.asList(20,21,2,3,4,6,6));
