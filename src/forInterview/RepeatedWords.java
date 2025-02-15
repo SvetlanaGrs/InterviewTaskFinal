@@ -1,4 +1,4 @@
-package mentor_session;
+package forInterview;
 
 public class RepeatedWords {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package mentor_session;
+package forInterview;
 //it is harder sentence
 public class Valid_palindrome {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package mentor_session;
+package forInterview;
 
 import java.util.Stack;
 

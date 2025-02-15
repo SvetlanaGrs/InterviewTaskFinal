@@ -1,4 +1,4 @@
-package mentor_session;
+package forInterview;
 /*
 Remove duplicate numbers from ArrayList
  */

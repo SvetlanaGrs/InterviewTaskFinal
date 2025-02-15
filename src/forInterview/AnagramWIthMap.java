@@ -1,8 +1,6 @@
-package mentor_session;
+package forInterview;
 
 import java.util.HashMap;
-import java.util.Map;
-import java.util.TreeMap;
 
 public class AnagramWIthMap {
     public static void main(String[] args) {

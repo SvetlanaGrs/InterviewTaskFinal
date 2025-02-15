@@ -1,6 +1,4 @@
-package mentor_session;
-
-import java.time.temporal.ChronoField;
+package forInterview;
 
 //Reverse only text
 //"test12pro90java"

@@ -1,4 +1,4 @@
-package mentor_session;
+package forInterview;
 //Anagram - different combination letters of the same words
 public class Anagram {
     public static void main(String[] args) {
