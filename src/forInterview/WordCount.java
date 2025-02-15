@@ -1,4 +1,4 @@
-package forInterview;
+package mentor_session;
 
 import java.util.Map;
 import java.util.TreeMap;
@@ -28,4 +28,4 @@ public class WordCount {
         return map;
     }
 }
-//Svetlana also do some code
+// Diana check merge
