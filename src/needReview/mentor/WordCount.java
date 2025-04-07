@@ -1,4 +1,4 @@
-package for_interview;
+package needReview.mentor;
 
 import java.util.Map;
 import java.util.TreeMap;
@@ -28,4 +28,3 @@ public class WordCount {
         return map;
     }
 }
-// Diana check merge

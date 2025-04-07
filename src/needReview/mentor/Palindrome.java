@@ -1,4 +1,4 @@
-package forInterview;
+package needReview.mentor;
 
 public class Palindrome {
     public static void main(String[] args) {
@@ -20,6 +20,5 @@ public class Palindrome {
                 return true;
             }
         return false;//
-
     }
 }
